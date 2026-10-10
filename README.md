@@ -1,0 +1,1 @@
+Automated network request management in ServiceNow uses ServiceNow IT Service Management (ITSM) and ServiceNow Request Management to eliminate manual IT tickets, like firewall rule modifications or switch configurations, replacing them with self-service portals, automated approvals, and direct API-driven network orchestration.
